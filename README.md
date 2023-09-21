@@ -1,4 +1,4 @@
-# COVID Vaccine Tweet Sentimental Analysis✨
+# Draduate admission Prediction using Regression✨
 
 📚 **Description**
 =================
